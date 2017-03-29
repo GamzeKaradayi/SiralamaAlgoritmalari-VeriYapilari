@@ -1,0 +1,21 @@
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.exe.config
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.exe
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.pdb
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.Form1.resources
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.Properties.Resources.resources
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.csproj.GenerateResource.Cache
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.exe
+C:\Users\Ali\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.pdb
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.exe.config
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.exe
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.pdb
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.exe
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.pdb
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.Form1.resources
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.Properties.Resources.resources
+C:\Users\lenovo\Desktop\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\142803003 142803018\SortingAlgoritma\SortingAlgoritma\bin\Debug\SortingAlgoritma.exe.config
+C:\Users\lenovo\Desktop\142803003 142803018\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.exe
+C:\Users\lenovo\Desktop\142803003 142803018\SortingAlgoritma\SortingAlgoritma\obj\Debug\SortingAlgoritma.pdb
